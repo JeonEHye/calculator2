@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">calculator 2</string>
+=======
+    <string name="app_name">Calculator</string>
+>>>>>>> 48f60f3c5168871e88450d1aed6cf9acf08a7ab0
 </resources>
